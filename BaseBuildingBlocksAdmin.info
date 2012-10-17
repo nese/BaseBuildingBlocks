@@ -1,0 +1,6 @@
+name = Base Building Blocks Administration
+description = An administration subtheme of Base Building Blocks that allows you to customize a cool, intuitive, Twitter Bootstrap based administration theme.
+base theme = BaseBuildingBlocks
+core = 7.x
+
+stylesheets[screen][] = css/style.css
