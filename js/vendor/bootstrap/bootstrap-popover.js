@@ -19,8 +19,6 @@
 
 
 !function ($) {
-  $ = jq8;
-
   "use strict"; // jshint ;_;
 
 
@@ -101,4 +99,4 @@
   , template: '<div class="popover"><div class="arrow"></div><div class="popover-inner"><h3 class="popover-title"></h3><div class="popover-content"><p></p></div></div></div>'
   })
 
-}(jq8);
+}(jQuery);

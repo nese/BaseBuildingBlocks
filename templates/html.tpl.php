@@ -7,7 +7,6 @@
   <?php print $head; ?>
   <title><?php print $head_title; ?></title>
   <?php print $styles; ?>
-  <?php print BaseBuildingBlocks_scripts(); ?>
   <?php print $scripts; ?>
   <?php print BaseBuildingBlocks_touch_icons(); ?>
   <?php print BaseBuildingBlocks_author(); ?>

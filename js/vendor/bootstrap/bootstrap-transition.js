@@ -19,7 +19,6 @@
 
 
 !function ($) {
-  $ = jq8;
 
   $(function () {
 
@@ -58,4 +57,4 @@
 
   })
 
-}(window.jQuery);
+}(jQuery);

@@ -19,8 +19,6 @@
 
 
 !function ($) {
-  $ = jq8;
-
   "use strict"; // jshint ;_;
 
 
@@ -148,4 +146,4 @@
       .on('keydown.dropdown.data-api touchstart.dropdown.data-api', toggle + ', [role=menu]' , Dropdown.prototype.keydown)
   })
 
-}(jq8);
+}(jQuery);

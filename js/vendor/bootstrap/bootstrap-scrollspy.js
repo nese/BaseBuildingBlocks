@@ -19,8 +19,6 @@
 
 
 !function ($) {
-  $ = jq8;
-
   "use strict"; // jshint ;_;
 
 
@@ -149,4 +147,4 @@
     })
   })
 
-}(jq8);
+}(jQuery);

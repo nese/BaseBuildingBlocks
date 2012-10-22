@@ -19,8 +19,6 @@
 
 
 !function ($) {
-  $ = jq8;
-
   "use strict"; // jshint ;_;
 
 
@@ -88,4 +86,4 @@
     $('body').on('click.alert.data-api', dismiss, Alert.prototype.close)
   })
 
-}(jq8);
+}(jQuery);
